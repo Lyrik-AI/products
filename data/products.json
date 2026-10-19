@@ -1,0 +1,2349 @@
+[
+  {
+    "title": "Beijing, on One Line",
+    "seo_title": "Beijing, on One Line · 5-Day Beijing Private Tour",
+    "slug": "beijing-5-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "5 days from a palace axis to a ridgeline wall seeing how Beijing was drawn",
+    "duration": "5 days / 4 nights",
+    "days": 5,
+    "price_from_usd": 1750,
+    "cities": [
+      "Beijing"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/bckHHtQO.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-5-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881faaa30f4306167f50c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-5-days.md"
+  },
+  {
+    "title": "Beijing, After the Conference",
+    "seo_title": "Beijing, After the Conference · 3-Day Beijing Private Tour",
+    "slug": "beijing-business-break-3-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "3 days from the trade floor to a tea table and the Beijing behind it",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 1200,
+    "cities": [
+      "Beijing"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/jGhAKBma.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-business-break-3-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8814985ffe6b7186fc06e",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-business-break-3-days.md"
+  },
+  {
+    "title": "The Wall and the Water",
+    "seo_title": "The Wall and the Water · 10-Day Beijing, Chengdu & Shenzhen Private Tour",
+    "slug": "beijing-chengdu-shenzhen-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from the Great Wall to a river split 2200 years ago and still working",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 3510,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Shenzhen"
+    ],
+    "themes": [
+      "240-Hour Transit"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/am5ba18P.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-chengdu-shenzhen-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8810aaa5ec4bb15953ddb",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-chengdu-shenzhen-10-days.md"
+  },
+  {
+    "title": "Halls of Emperors and Gods",
+    "seo_title": "Halls of Emperors and Gods · 7-Day Beijing & Taiyuan Private Tour",
+    "slug": "beijing-shanxi-temples-7-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "7 days from the Forbidden City to 2000 painted faces and the China behind both",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 2190,
+    "cities": [
+      "Beijing",
+      "Taiyuan"
+    ],
+    "themes": [
+      "Sacred & Storied"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/jjBLMpSL.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-shanxi-temples-7-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8811c96d1e4fd9b7924de",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-shanxi-temples-7-days.md"
+  },
+  {
+    "title": "The Empire, Read Backward",
+    "seo_title": "The Empire, Read Backward · 7-Day Beijing & Xi'an Private Tour",
+    "slug": "beijing-xian-7-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "7 days from the Forbidden City back to where the Terracotta Warriors began it",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 2220,
+    "cities": [
+      "Beijing",
+      "Xi'an"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/k6oPFy1J.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-xian-7-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881828303fa0ab2611e58",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-xian-7-days.md"
+  },
+  {
+    "title": "Axis to Kitchen Table",
+    "seo_title": "Axis to Kitchen Table · 12-Day Beijing, Xi'an & Chengdu Private Tour",
+    "slug": "beijing-xian-chengdu-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from the Forbidden City to a family kitchen understanding the whole line",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4060,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2WLhk97i.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-xian-chengdu-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8816b9376c84e707f6591",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-xian-chengdu-12-days.md"
+  },
+  {
+    "title": "Two Capitals, Then Chengdu",
+    "seo_title": "Two Capitals, Then Chengdu · 9-Day Beijing, Xi'an & Chengdu Private Tour",
+    "slug": "beijing-xian-chengdu-9-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "9 days from the Forbidden City to a teahouse chair seeing the China everyone means",
+    "duration": "9 days / 8 nights",
+    "days": 9,
+    "price_from_usd": 3150,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/3GT0GCsz.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-xian-chengdu-9-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881be89f1d1b7744b4ced",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-xian-chengdu-9-days.md"
+  },
+  {
+    "title": "Four Lines, One Country",
+    "seo_title": "Four Lines, One Country · 9-Day Beijing, Xi'an & Shanghai Private Tour",
+    "slug": "beijing-xian-shanghai-9-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "9 days from the Terracotta Warriors to a commuter ferry seeing how a country draws itself",
+    "duration": "9 days / 8 nights",
+    "days": 9,
+    "price_from_usd": 3230,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/1ANRdHZy.webp",
+    "official_url": "https://www.lyriktrip.com/tours/beijing-xian-shanghai-9-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8810d8440f62bd63e5ac1",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/beijing-xian-shanghai-9-days.md"
+  },
+  {
+    "title": "After the Last Booth",
+    "seo_title": "After the Last Booth · 3-Day Guangzhou Private Tour",
+    "slug": "canton-fair-foshan-3-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "After the Canton Fair, two days in Guangzhou and Foshan, followed by a leisurely return on day three",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 840,
+    "cities": [
+      "Guangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/8ACVuoNa.webp",
+    "official_url": "https://www.lyriktrip.com/tours/canton-fair-foshan-3-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881299df7d2b9766c122a",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/canton-fair-foshan-3-days.md"
+  },
+  {
+    "title": "One Day in Canton, Two Legends",
+    "seo_title": "One Day in Canton, Two Legends · Guangzhou Private Day Tour",
+    "slug": "canton-one-day-two-faces",
+    "product_type": "Day Experience",
+    "tagline": "A teahouse boat · arcade streets · a heritage lion dance · old Xiguan",
+    "duration": "1 day",
+    "days": 1,
+    "price_from_usd": 99,
+    "cities": [
+      "Guangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/086070c99141.webp",
+    "official_url": "https://www.lyriktrip.com/tours/canton-one-day-two-faces",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88145b00ce2a49ccc0a7c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/canton-one-day-two-faces.md"
+  },
+  {
+    "title": "Sichuan, Face to Face",
+    "seo_title": "Sichuan, Face to Face · 6-Day Chengdu, Leshan & Dujiangyan Private Tour",
+    "slug": "chengdu-sichuan-6-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "6 days from a teahouse chair to a cliff-carved Buddha tasting how Sichuan lives",
+    "duration": "6 days / 5 nights",
+    "days": 6,
+    "price_from_usd": 2160,
+    "cities": [
+      "Chengdu",
+      "Leshan",
+      "Dujiangyan"
+    ],
+    "themes": [
+      "Honeymoon"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/B3Bb1bOx.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/chengdu-sichuan-6-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881e996bed7b202f94bd2",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/chengdu-sichuan-6-days.md"
+  },
+  {
+    "title": "The Middle Goes Up",
+    "seo_title": "The Middle Goes Up · 14-Day Beijing, Chengdu, Shanghai & more Private Tour",
+    "slug": "china-classics-highlands-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from the Forbidden City to lakes at 3000 meters seeing both Chinas",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4670,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Shanghai",
+      "Xi'an",
+      "Jiuzhaigou"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/bd962b23fc25.png",
+    "official_url": "https://www.lyriktrip.com/tours/china-classics-highlands-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88108a539ffa4ab032ab8",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-classics-highlands-14-days.md"
+  },
+  {
+    "title": "Where the Lines Stop",
+    "seo_title": "Where the Lines Stop · 14-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-classics-water-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from the Great Wall to a bamboo raft seeing the whole country",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4770,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Guilin",
+      "Yangshuo",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/f559f129a28d.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/china-classics-water-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881ff87adcf86608407d2",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-classics-water-14-days.md"
+  },
+  {
+    "title": "China, East to South",
+    "seo_title": "China, East to South · 14-Day Shanghai, Beijing, Xi'an & more Private Tour",
+    "slug": "china-east-to-south-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "Shanghai to Shenzhen: 14 days across ancient capitals, landscapes, and tech markets",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4910,
+    "cities": [
+      "Shanghai",
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Guilin",
+      "Yangshuo",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/lwOw9Lz4.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-east-to-south-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f19c8fd950aa4e7185",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-east-to-south-14-days.md"
+  },
+  {
+    "title": "China, End to End",
+    "seo_title": "China, End to End · 18-Day Beijing, Chuanzhusi, Guilin & more Private Tour",
+    "slug": "china-end-to-end-18-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "18 days from the Forbidden City to a driverless taxi with every China in between",
+    "duration": "18 days / 17 nights",
+    "days": 18,
+    "price_from_usd": 6360,
+    "cities": [
+      "Beijing",
+      "Chuanzhusi",
+      "Guilin",
+      "Zhangjiajie",
+      "Jiuzhaigou",
+      "Xi'an",
+      "Yangshuo",
+      "Chengdu",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/lgRtYUwR.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/china-end-to-end-18-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881758601db4a283a01c6",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-end-to-end-18-days.md"
+  },
+  {
+    "title": "The Lift Inside the Cliff",
+    "seo_title": "The Lift Inside the Cliff · 12-Day Beijing, Chengdu, Zhangjiajie & more Private Tour",
+    "slug": "china-family-pandas-pillars-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from a panda at breakfast to sandstone pillars at eye level",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 3400,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Zhangjiajie",
+      "Shanghai"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2t45crmz.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-family-pandas-pillars-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881efb21ae5e153c889c7",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-family-pandas-pillars-12-days.md"
+  },
+  {
+    "title": "China, by Hand",
+    "seo_title": "China, by Hand · 12-Day Beijing, Shanghai, Xi'an & more Private Tour",
+    "slug": "china-four-crafts-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from the Great Wall to a water town making four things by hand",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 3990,
+    "cities": [
+      "Beijing",
+      "Shanghai",
+      "Xi'an",
+      "Taiyuan",
+      "Pingyao"
+    ],
+    "themes": [
+      "Sacred & Storied"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/ngTSsghw.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/china-four-crafts-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88126abb6e945d3bd9eef",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-four-crafts-12-days.md"
+  },
+  {
+    "title": "River First, Then Stone",
+    "seo_title": "River First, Then Stone · 21-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-grand-corridor-21-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "21 days from the Great Wall to a sandstone pillar forest taking the long way",
+    "duration": "21 days / 20 nights",
+    "days": 21,
+    "price_from_usd": 6970,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Chongqing",
+      "Yichang",
+      "Zhangjiajie",
+      "Shanghai"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/4ilhRGUF.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-grand-corridor-21-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8815ba883e537318481af",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-grand-corridor-21-days.md"
+  },
+  {
+    "title": "How We Know",
+    "seo_title": "How We Know · 12-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-history-evidence-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from a buried army to a canal still watering Chengdu reading the evidence",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4310,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Shanghai"
+    ],
+    "themes": [
+      "Study Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/c8fe719b2cc9.png",
+    "official_url": "https://www.lyriktrip.com/tours/china-history-evidence-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8812aa24cc3aa3619676d",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-history-evidence-12-days.md"
+  },
+  {
+    "title": "One Country, Two Clocks",
+    "seo_title": "One Country, Two Clocks · 15-Day Beijing, Chengdu, Guilin & more Private Tour",
+    "slug": "china-hong-kong-15-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "15 days from the Great Wall to Victoria Harbour crossing a border without leaving China",
+    "duration": "15 days / 14 nights",
+    "days": 15,
+    "price_from_usd": 5000,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Guilin",
+      "Shenzhen",
+      "Hong Kong",
+      "Xi'an",
+      "Yangshuo"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/8N5rii5U.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-hong-kong-15-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881c8960ece2659c0ea46",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-hong-kong-15-days.md"
+  },
+  {
+    "title": "Lines Drawn on the Ground",
+    "seo_title": "Lines Drawn on the Ground · 10-Day Beijing, Xi'an, Shanghai & more Private Tour",
+    "slug": "china-in-order-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from the Terracotta Warriors to a circuit board market seeing China in order",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 3590,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Shanghai",
+      "Shenzhen"
+    ],
+    "themes": [
+      "240-Hour Transit"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/j5Bvs8Az.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-in-order-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f8b922d0838bdecade",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-in-order-10-days.md"
+  },
+  {
+    "title": "Still in Use",
+    "seo_title": "Still in Use · 12-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-living-classics-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from a buried army to a rush hour ferry seeing the China still working",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4310,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/626lxQLu.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-living-classics-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88104ae56f5b4174410d3",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-living-classics-12-days.md"
+  },
+  {
+    "title": "Made Here",
+    "seo_title": "Made Here · 10-Day Shanghai, Suzhou, Hangzhou & more Private Tour",
+    "slug": "china-made-here-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from a rowing boat to a car with no driver meeting who builds it",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 3270,
+    "cities": [
+      "Shanghai",
+      "Suzhou",
+      "Hangzhou",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Futuristic Cities"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/giflYNIw.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-made-here-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8815fb970cf9f32a7ed1b",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-made-here-10-days.md"
+  },
+  {
+    "title": "Monuments, Then Neighbors",
+    "seo_title": "Monuments, Then Neighbors · 11-Day Beijing, Chengdu & Shanghai Private Tour",
+    "slug": "china-monuments-neighbors-11-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "11 days from the Great Wall to a neighborhood kitchen meeting the everyday China",
+    "duration": "11 days / 10 nights",
+    "days": 11,
+    "price_from_usd": 3520,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Shanghai"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/aT8MIFX0.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-monuments-neighbors-11-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88187bb22d5fd0d684c1c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-monuments-neighbors-11-days.md"
+  },
+  {
+    "title": "What a Country Keeps",
+    "seo_title": "What a Country Keeps · 10-Day Beijing, Xi'an & Shanghai Private Tour",
+    "slug": "china-museums-heritage-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from bronze vessels to a printed page reading the whole record",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 3630,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Shanghai"
+    ],
+    "themes": [
+      "Study Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/9mTK4rw2.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-museums-heritage-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88169b657c82e28e835b3",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-museums-heritage-10-days.md"
+  },
+  {
+    "title": "Newest First",
+    "seo_title": "Newest First · 12-Day Shanghai, Chengdu, Xi'an & more Private Tour",
+    "slug": "china-newest-first-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from the Pudong skyline to a palace axis reading the timeline backward",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4090,
+    "cities": [
+      "Shanghai",
+      "Chengdu",
+      "Xi'an",
+      "Beijing"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/gQx7f1JF.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-newest-first-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88197930cd1ea0a14d253",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-newest-first-12-days.md"
+  },
+  {
+    "title": "Thin Air, Then Sea Level",
+    "seo_title": "Thin Air, Then Sea Level · 18-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-plateau-yangtze-18-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "18 days from the Forbidden City to the Bund crossing the whole arc of China",
+    "duration": "18 days / 17 nights",
+    "days": 18,
+    "price_from_usd": 4900,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Lhasa",
+      "Chongqing",
+      "Yichang",
+      "Shanghai"
+    ],
+    "themes": [
+      "Sacred & Storied"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/kmRH6ROt.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-plateau-yangtze-18-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88136ab16d9e30fe79456",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-plateau-yangtze-18-days.md"
+  },
+  {
+    "title": "China, Newest First",
+    "seo_title": "China, Newest First · 14-Day Shenzhen, Chengdu, Xi'an & more Private Tour",
+    "slug": "china-reverse-timeline-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from a young skyline to a 2200-year-old waterworks seeing how China got here",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 5030,
+    "cities": [
+      "Shenzhen",
+      "Chengdu",
+      "Xi'an",
+      "Beijing",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/62f649c35cc2.png",
+    "official_url": "https://www.lyriktrip.com/tours/china-reverse-timeline-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8810cae57d75ef8f0800e",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-reverse-timeline-14-days.md"
+  },
+  {
+    "title": "What Each City Is For",
+    "seo_title": "What Each City Is For · 14-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-six-cities-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from the Forbidden City to Huaqiangbei electronics market, discovering the unique rhythm of six cities",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 5030,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Shanghai",
+      "Shenzhen",
+      "Guangzhou"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/fIXPI7sI.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-six-cities-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88125b8baeadbfb233e8e",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-six-cities-14-days.md"
+  },
+  {
+    "title": "Six-City Family Tour",
+    "seo_title": "Six-City Family Tour · 14-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-six-cities-family-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from the Forbidden City to a rice valley in the karst at family pace",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4510,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Guilin",
+      "Yangshuo",
+      "Shanghai"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/doeYBJEl.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-six-cities-family-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88100b1fdc4cf9487d691",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-six-cities-family-14-days.md"
+  },
+  {
+    "title": "The Fourth Night",
+    "seo_title": "The Fourth Night · 21-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-slow-classics-21-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "From the Forbidden City to teahouse bamboo chairs: slow down for 21 days and see the city's daily life",
+    "duration": "21 days / 20 nights",
+    "days": 21,
+    "price_from_usd": 6620,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Chongqing",
+      "Yichang",
+      "Shanghai"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/kBEAjAAC.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-slow-classics-21-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8812cbe77d1e8bea69107",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-slow-classics-21-days.md"
+  },
+  {
+    "title": "The Wall Comes Last",
+    "seo_title": "The Wall Comes Last · 14-Day Guangzhou, Shanghai, Chengdu & more Private Tour",
+    "slug": "china-south-to-north-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from a southern teahouse to the Great Wall seeing how China fits together",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4870,
+    "cities": [
+      "Guangzhou",
+      "Shanghai",
+      "Chengdu",
+      "Xi'an",
+      "Beijing"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/7Dv1R2xT.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-south-to-north-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881b096abfb97c6c65803",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-south-to-north-14-days.md"
+  },
+  {
+    "title": "One Country, Three Clocks",
+    "seo_title": "One Country, Three Clocks · 9-Day Beijing, Xi'an & Shenzhen Private Tour",
+    "slug": "china-three-clocks-9-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "9 days from a clay army to a floor of circuit boards crossing the whole span",
+    "duration": "9 days / 8 nights",
+    "days": 9,
+    "price_from_usd": 3150,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Shenzhen"
+    ],
+    "themes": [
+      "240-Hour Transit"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/d712e1982dc0.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/china-three-clocks-9-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8810aae9fcf55ef20ecee",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-three-clocks-9-days.md"
+  },
+  {
+    "title": "One Pace, Three Generations",
+    "seo_title": "One Pace, Three Generations · 14-Day Beijing, Chengdu, Guilin & more Private Tour",
+    "slug": "china-three-generations-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from a Great Wall toboggan to a teahouse chair at your family's pace",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4120,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Guilin",
+      "Yangshuo",
+      "Shanghai"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/g0tl3vU0.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-three-generations-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881088440cdee2f5e0c7f",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-three-generations-14-days.md"
+  },
+  {
+    "title": "What the Stone Becomes",
+    "seo_title": "What the Stone Becomes · 15-Day Shanghai, Zhangjiajie, Guilin & more Private Tour",
+    "slug": "china-three-stones-15-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "15 days from sandstone pillars to poured concrete walking three ages of stone",
+    "duration": "15 days / 14 nights",
+    "days": 15,
+    "price_from_usd": 4380,
+    "cities": [
+      "Shanghai",
+      "Zhangjiajie",
+      "Guilin",
+      "Yangshuo",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/dQVVYxTC.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-three-stones-15-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881c69197f283ae2d14f7",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-three-stones-15-days.md"
+  },
+  {
+    "title": "The Long Way Up",
+    "seo_title": "The Long Way Up · 15-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-tibet-ascent-15-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "15 days climbing from 44 meters to 3650 and learning what altitude asks",
+    "duration": "15 days / 14 nights",
+    "days": 15,
+    "price_from_usd": 4440,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Lhasa",
+      "Shanghai"
+    ],
+    "themes": [
+      "Sacred & Storied"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/boWFM4ne.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-tibet-ascent-15-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881c4abede9da59fae568",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-tibet-ascent-15-days.md"
+  },
+  {
+    "title": "Two Rivers, Two Thousand Years",
+    "seo_title": "Two Rivers, Two Thousand Years · 14-Day Chengdu, Xi'an, Beijing & more Private Tour",
+    "slug": "china-two-rivers-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from a 2200-year-old waterway to the Pearl River skyline still at work",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 4870,
+    "cities": [
+      "Chengdu",
+      "Xi'an",
+      "Beijing",
+      "Shanghai",
+      "Guangzhou"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/ahG6yC4b.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-two-rivers-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881ee880bc3fac3b2bcd4",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-two-rivers-14-days.md"
+  },
+  {
+    "title": "Two Kinds of Water",
+    "seo_title": "Two Kinds of Water · 21-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-two-waters-21-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "21 days from a lake that never moves to a river carrying your ship",
+    "duration": "21 days / 20 nights",
+    "days": 21,
+    "price_from_usd": 6910,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Jiuzhaigou",
+      "Chongqing",
+      "Yichang",
+      "Shanghai"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/05af336caf9d.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/china-two-waters-21-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8819cb907c6475c8b92f1",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-two-waters-21-days.md"
+  },
+  {
+    "title": "The Days Nobody Organized",
+    "seo_title": "The Days Nobody Organized · 14-Day Beijing, Chengdu, Chongqing & more Private Tour",
+    "slug": "china-unhurried-14-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "14 days from the Forbidden City to a train through a tower block taken slowly",
+    "duration": "14 days / 13 nights",
+    "days": 14,
+    "price_from_usd": 3840,
+    "cities": [
+      "Beijing",
+      "Chengdu",
+      "Chongqing",
+      "Shanghai"
+    ],
+    "themes": [
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/iHkhCTng.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-unhurried-14-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881a1aac0f32712a16745",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-unhurried-14-days.md"
+  },
+  {
+    "title": "Ten Days Without a Visa",
+    "seo_title": "Ten Days Without a Visa · 10-Day Shenzhen, Guilin, Yangshuo & more Private Tour",
+    "slug": "china-visa-free-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "From Shenzhen's electronics markets to Xi'an's Terracotta Warriors: 10 days through cities and landscapes",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 3130,
+    "cities": [
+      "Shenzhen",
+      "Guilin",
+      "Yangshuo",
+      "Chengdu",
+      "Xi'an",
+      "Beijing"
+    ],
+    "themes": [
+      "240-Hour Transit"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/ijjtBrUh.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-visa-free-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881bca49cc1afc9ea20f1",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-visa-free-10-days.md"
+  },
+  {
+    "title": "Walls First, Then Water",
+    "seo_title": "Walls First, Then Water · 18-Day Beijing, Xi'an, Chengdu & more Private Tour",
+    "slug": "china-wall-to-waterworks-18-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "18 days from the Great Wall to Dujiangyan, then along the Yangtze River to Shanghai",
+    "duration": "18 days / 17 nights",
+    "days": 18,
+    "price_from_usd": 6190,
+    "cities": [
+      "Beijing",
+      "Xi'an",
+      "Chengdu",
+      "Chongqing",
+      "Yichang",
+      "Shanghai"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/bgMj7PBV.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-wall-to-waterworks-18-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8817eaa34fde51c073e6c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-wall-to-waterworks-18-days.md"
+  },
+  {
+    "title": "Upstream to the Sea",
+    "seo_title": "Upstream to the Sea · 12-Day Chengdu, Xi'an, Beijing & more Private Tour",
+    "slug": "china-west-to-east-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from a 2200-year-old waterworks to the Pudong skyline on one through line",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4310,
+    "cities": [
+      "Chengdu",
+      "Xi'an",
+      "Beijing",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/lFis6ZHy.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-west-to-east-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f09435ca65480346d8",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-west-to-east-12-days.md"
+  },
+  {
+    "title": "China Without Beijing",
+    "seo_title": "China Without Beijing · 12-Day Shenzhen, Chengdu, Xi'an & more Private Tour",
+    "slug": "china-without-beijing-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from a Shenzhen electronics floor to a canal still watering the fields",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 4230,
+    "cities": [
+      "Shenzhen",
+      "Chengdu",
+      "Xi'an",
+      "Shanghai"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/3feDQnmH.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-without-beijing-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881a9b2f9f084b6c48afc",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-without-beijing-12-days.md"
+  },
+  {
+    "title": "Downstream from the Future",
+    "seo_title": "Downstream from the Future · 19-Day Shenzhen, Guilin, Yangshuo & more Private Tour",
+    "slug": "china-yangtze-south-19-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "From Shenzhen component counters to Three Gorges decks: 19 days along the waterway to Shanghai",
+    "duration": "19 days / 18 nights",
+    "days": 19,
+    "price_from_usd": 5360,
+    "cities": [
+      "Shenzhen",
+      "Guilin",
+      "Yangshuo",
+      "Chengdu",
+      "Chongqing",
+      "Yichang",
+      "Shanghai"
+    ],
+    "themes": [
+      "Rivers & Slow Journeys"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2v9LApoE.webp",
+    "official_url": "https://www.lyriktrip.com/tours/china-yangtze-south-19-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881d3b815f6b31a7857d0",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/china-yangtze-south-19-days.md"
+  },
+  {
+    "title": "Two Clocks, One Bay",
+    "seo_title": "Two Clocks, One Bay · 5-Day Shenzhen & Guangzhou Private Tour",
+    "slug": "greater-bay-area-5-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "5 days from a Shenzhen components market to a Wing Chun stance in Foshan",
+    "duration": "5 days / 4 nights",
+    "days": 5,
+    "price_from_usd": 1430,
+    "cities": [
+      "Shenzhen",
+      "Guangzhou"
+    ],
+    "themes": [
+      "Futuristic Cities"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/cYQapjQk.webp",
+    "official_url": "https://www.lyriktrip.com/tours/greater-bay-area-5-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88167a3c2e958ce2759d7",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/greater-bay-area-5-days.md"
+  },
+  {
+    "title": "Half City Lights, Half Green Wild",
+    "seo_title": "Half City Lights, Half Green Wild · 7-Day Guangzhou, Qingyuan, Lianzhou & more Private Tour",
+    "slug": "greater-bay-hidden-gems-7d",
+    "product_type": "Multi-day Tour",
+    "tagline": "From the Pearl River at night to a thousand-year Yao village, the Lingnan you have not seen",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 2000,
+    "cities": [
+      "Guangzhou",
+      "Qingyuan",
+      "Lianzhou",
+      "Liannan",
+      "Yingde"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/33b0a91f2a9d.webp",
+    "official_url": "https://www.lyriktrip.com/tours/greater-bay-hidden-gems-7d",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8813c9721cf07e6d6ed24",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/greater-bay-hidden-gems-7d.md"
+  },
+  {
+    "title": "Homecoming Feast",
+    "seo_title": "Homecoming Feast · 10-Day Jinjiang, Guangzhou, Shantou & more Private Tour",
+    "slug": "guangdong-fujian-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "A 10-day, 9-night food journey through Guangdong, Teochew and Fujian",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 4000,
+    "cities": [
+      "Jinjiang",
+      "Guangzhou",
+      "Shantou",
+      "Quanzhou",
+      "Anxi",
+      "Jieyang",
+      "Zhangzhou",
+      "Chaozhou",
+      "Xiamen"
+    ],
+    "themes": [
+      "Classic China"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/eyBsuVxW.webp",
+    "official_url": "https://www.lyriktrip.com/tours/guangdong-fujian-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881fc8c9aef7f0d8cba68",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/guangdong-fujian-10-days.md"
+  },
+  {
+    "title": "Downstream, Then Up",
+    "seo_title": "Downstream, Then Up · 5-Day Guilin & Yangshuo Private Tour",
+    "slug": "guilin-yangshuo-5-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "5 days from a lit pagoda to a hilltop sunrise seeing one river whole",
+    "duration": "5 days / 4 nights",
+    "days": 5,
+    "price_from_usd": 1600,
+    "cities": [
+      "Guilin",
+      "Yangshuo"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2SOnVgIN.webp",
+    "official_url": "https://www.lyriktrip.com/tours/guilin-yangshuo-5-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f088f2fc8da9872332",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/guilin-yangshuo-5-days.md"
+  },
+  {
+    "title": "China Below Zero",
+    "seo_title": "China Below Zero · 7-Day Erdaobaihe, Harbin, Shenyang & more Private Tour",
+    "slug": "harbin-winter-7-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "7 days from a Qing palace to a city built of ice for one winter",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 1830,
+    "cities": [
+      "Erdaobaihe",
+      "Harbin",
+      "Shenyang",
+      "Changchun"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/1ttHCmeI.webp",
+    "official_url": "https://www.lyriktrip.com/tours/harbin-winter-7-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881778ef8de4b83ea9071",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/harbin-winter-7-days.md"
+  },
+  {
+    "title": "Sleeping on the Waters of Jiangnan",
+    "seo_title": "Sleeping on the Waters of Jiangnan · 6-Day Shanghai, Zhouzhuang, Suzhou & more Private Tour",
+    "slug": "jiangnan-after-dark-6d",
+    "product_type": "Multi-day Tour",
+    "tagline": "Others see Jiangnan by day—this route gives you the water towns at night and in the morning.",
+    "duration": "6 days / 5 nights",
+    "days": 6,
+    "price_from_usd": 1032,
+    "cities": [
+      "Shanghai",
+      "Zhouzhuang",
+      "Suzhou",
+      "Wuzhen",
+      "Hangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/d5IOoJX3.webp",
+    "official_url": "https://www.lyriktrip.com/tours/jiangnan-after-dark-6d",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881969e9ec1bcbd2621db",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/jiangnan-after-dark-6d.md"
+  },
+  {
+    "title": "The Water Towns Are Yours to Discover",
+    "seo_title": "The Water Towns Are Yours to Discover · 6-Day Shanghai, Zhouzhuang, Suzhou & more Private Tour",
+    "slug": "jiangnan-at-your-pace-6d",
+    "product_type": "Multi-day Tour",
+    "tagline": "6 days from the Huangpu River to West Lake, exploring two water towns at your own pace",
+    "duration": "6 days / 5 nights",
+    "days": 6,
+    "price_from_usd": 1180,
+    "cities": [
+      "Shanghai",
+      "Zhouzhuang",
+      "Suzhou",
+      "Wuzhen",
+      "Hangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/7dcfaff58602.png",
+    "official_url": "https://www.lyriktrip.com/tours/jiangnan-at-your-pace-6d",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88109b17cd39295f98a1d",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/jiangnan-at-your-pace-6d.md"
+  },
+  {
+    "title": "Jiangnan in Five Days: An Introduction",
+    "seo_title": "Jiangnan in Five Days: An Introduction · 5-Day Shanghai, Wuzhen & Hangzhou Private Tour",
+    "slug": "jiangnan-essentials-5d",
+    "product_type": "Multi-day Tour",
+    "tagline": "Five days strolling through Shanghai’s alleys to West Lake: explore the essence of Jiangnan at an accessible price",
+    "duration": "5 days / 4 nights",
+    "days": 5,
+    "price_from_usd": 296,
+    "cities": [
+      "Shanghai",
+      "Wuzhen",
+      "Hangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/04adfec749e3.png",
+    "official_url": "https://www.lyriktrip.com/tours/jiangnan-essentials-5d",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8811697b5d66b15409f42",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/jiangnan-essentials-5d.md"
+  },
+  {
+    "title": "The Cultural Elegance of Lingnan",
+    "seo_title": "The Cultural Elegance of Lingnan · Guangzhou Private Day Tour",
+    "slug": "lingnan-cultural-elegance-1d",
+    "product_type": "Day Experience",
+    "tagline": "Where Heritage Meets Modern",
+    "duration": "1 day",
+    "days": 1,
+    "price_from_usd": 99,
+    "cities": [
+      "Guangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/4c66c7cd84f7.webp",
+    "official_url": "https://www.lyriktrip.com/tours/lingnan-cultural-elegance-1d",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881e5a2d5f7ac3b6c88e0",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/lingnan-cultural-elegance-1d.md"
+  },
+  {
+    "title": "China, Present Tense",
+    "seo_title": "China, Present Tense · 9-Day Shanghai, Hangzhou & Shenzhen Private Tour",
+    "slug": "modern-china-9-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "9 days from an old garden to a floor of circuit boards watching China work",
+    "duration": "9 days / 8 nights",
+    "days": 9,
+    "price_from_usd": 2780,
+    "cities": [
+      "Shanghai",
+      "Hangzhou",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Futuristic Cities"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/4udPDr4L.webp",
+    "official_url": "https://www.lyriktrip.com/tours/modern-china-9-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881469da5cbf367d68f38",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/modern-china-9-days.md"
+  },
+  {
+    "title": "Three Cities, Three Waters",
+    "seo_title": "Three Cities, Three Waters · 7-Day Shanghai, Yangshuo, Foshan & more Private Tour",
+    "slug": "shanghai-guilin-guangzhou-7-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "7 days from the Bund to a bamboo raft seeing China from three waters",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 2280,
+    "cities": [
+      "Shanghai",
+      "Yangshuo",
+      "Foshan",
+      "Guangzhou"
+    ],
+    "themes": [
+      "Honeymoon"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/eBNpV9PK.webp",
+    "official_url": "https://www.lyriktrip.com/tours/shanghai-guilin-guangzhou-7-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881beabf4d8a97f6f16f5",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shanghai-guilin-guangzhou-7-days.md"
+  },
+  {
+    "title": "Shanghai After the Expo",
+    "seo_title": "Shanghai After the Expo · 3-Day Hangzhou & Shanghai Private Tour",
+    "slug": "shanghai-hangzhou-3-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "From matchmaking corners to AI-assisted consultations: three days experiencing everyday China",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 1200,
+    "cities": [
+      "Hangzhou",
+      "Shanghai"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/luHUZreV.webp",
+    "official_url": "https://www.lyriktrip.com/tours/shanghai-hangzhou-3-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8810bad4af2b94d372caa",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shanghai-hangzhou-3-days.md"
+  },
+  {
+    "title": "Shanghai, by Water",
+    "seo_title": "Shanghai, by Water · 7-Day Shanghai, Suzhou & Hangzhou Private Tour",
+    "slug": "shanghai-water-towns-7-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "7 days from a walled garden pond to a ferry deck reading Shanghai by its water",
+    "duration": "7 days / 6 nights",
+    "days": 7,
+    "price_from_usd": 2190,
+    "cities": [
+      "Shanghai",
+      "Suzhou",
+      "Hangzhou"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/b3JL4qyN.webp",
+    "official_url": "https://www.lyriktrip.com/tours/shanghai-water-towns-7-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8813ab789ce91dae735f9",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shanghai-water-towns-7-days.md"
+  },
+  {
+    "title": "The Water Sets the Clock",
+    "seo_title": "The Water Sets the Clock · 10-Day Shanghai, Guilin & Yangshuo Private Tour",
+    "slug": "shanghai-yangshuo-couples-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from the Shanghai skyline to a bamboo raft with the river to yourselves",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 2880,
+    "cities": [
+      "Shanghai",
+      "Guilin",
+      "Yangshuo"
+    ],
+    "themes": [
+      "Honeymoon"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2bdcdff9629b.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/shanghai-yangshuo-couples-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8815b91b7ebd0983b752f",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shanghai-yangshuo-couples-10-days.md"
+  },
+  {
+    "title": "Slow Water, Fast City",
+    "seo_title": "Slow Water, Fast City · 8-Day Shanghai, Shenzhen & Yangshuo Private Tour",
+    "slug": "shanghai-yangshuo-shenzhen-8-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "8 days from a sculling boat to a hall of drones choosing your own speed",
+    "duration": "8 days / 7 nights",
+    "days": 8,
+    "price_from_usd": 2350,
+    "cities": [
+      "Shanghai",
+      "Shenzhen",
+      "Yangshuo"
+    ],
+    "themes": [
+      "Honeymoon"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/NCVhXY5h.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/shanghai-yangshuo-shenzhen-8-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881faae65dc57f7693f65",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shanghai-yangshuo-shenzhen-8-days.md"
+  },
+  {
+    "title": "Two Clocks, One Map",
+    "seo_title": "Two Clocks, One Map · 11-Day Shenzhen, Foshan, Guangzhou & more Private Tour",
+    "slug": "shenzhen-shanghai-deltas-11-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "11 days from a driverless taxi to an old city garden seeing what China kept",
+    "duration": "11 days / 10 nights",
+    "days": 11,
+    "price_from_usd": 3300,
+    "cities": [
+      "Shenzhen",
+      "Foshan",
+      "Guangzhou",
+      "Hangzhou",
+      "Shanghai"
+    ],
+    "themes": [
+      "Futuristic Cities"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/d3163f391937.png",
+    "official_url": "https://www.lyriktrip.com/tours/shenzhen-shanghai-deltas-11-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8816f91dbd5a15d96ad38",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shenzhen-shanghai-deltas-11-days.md"
+  },
+  {
+    "title": "Shenzhen, After the Fair",
+    "seo_title": "Shenzhen, After the Fair · 3-Day Shenzhen Private Tour",
+    "slug": "shenzhen-tech-3-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "3 days from a tray of components to the finished machine and the whole chain",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 1080,
+    "cities": [
+      "Shenzhen"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/jNDtdmbK.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/shenzhen-tech-3-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f5ac5fe1f68f4f3ff1",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/shenzhen-tech-3-days.md"
+  },
+  {
+    "title": "4-Day Tour of Siguniang Mountain, Biepa Gou, and Dagu Glacier",
+    "seo_title": "4-Day Tour of Siguniang Mountain, Biepa Gou, and Dagu Glacier · Private Tour",
+    "slug": "siguniangshan-bipenggou-dagu-3-day",
+    "product_type": "Multi-day Tour",
+    "tagline": "Snow-capped mountains, alpine lakes, and glaciers — explore three gorges of Western Sichuan in 3 days",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 1599,
+    "cities": [
+      "Chengdu",
+      "Lixian",
+      "Heishui County"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/ge4ZOFtc.webp",
+    "official_url": "https://www.lyriktrip.com/tours/siguniangshan-bipenggou-dagu-3-day",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8811aaff4d3cc554c5a99",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/siguniangshan-bipenggou-dagu-3-day.md"
+  },
+  {
+    "title": "All the Way West",
+    "seo_title": "All the Way West · 13-Day Xi'an, Dunhuang, Turpan & more Private Tour",
+    "slug": "silk-road-xian-kashgar-13-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "13 days from the Terracotta Warriors to the Kashgar Sunday bazaar crossing the Silk Road",
+    "duration": "13 days / 12 nights",
+    "days": 13,
+    "price_from_usd": 3500,
+    "cities": [
+      "Xi'an",
+      "Dunhuang",
+      "Turpan",
+      "Kashgar",
+      "Shanghai"
+    ],
+    "themes": [
+      "Sacred & Storied"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/9cI5H2ZV.webp",
+    "official_url": "https://www.lyriktrip.com/tours/silk-road-xian-kashgar-13-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8814caaf5de978f6fb41c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/silk-road-xian-kashgar-13-days.md"
+  },
+  {
+    "title": "Underground and After Dark",
+    "seo_title": "Underground and After Dark · 3-Day Xi'an Private Tour",
+    "slug": "xian-business-break-3-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "Extend your stay in Xi'an for three days after the event, exploring alleys, Terracotta Warriors, and museums",
+    "duration": "3 days / 2 nights",
+    "days": 3,
+    "price_from_usd": 1080,
+    "cities": [
+      "Xi'an"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/gDBoCxex.webp",
+    "official_url": "https://www.lyriktrip.com/tours/xian-business-break-3-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881bcab3cd57f4cf75929",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/xian-business-break-3-days.md"
+  },
+  {
+    "title": "Xi'an, Layer by Layer",
+    "seo_title": "Xi'an, Layer by Layer · 4-Day Xi'an Private Tour",
+    "slug": "xian-first-empire-4-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "4 days from a buried army to a city wall you can still ride",
+    "duration": "4 days / 3 nights",
+    "days": 4,
+    "price_from_usd": 1230,
+    "cities": [
+      "Xi'an"
+    ],
+    "themes": [
+      "City Breaks & Extensions"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/hYXcQ1ub.webp",
+    "official_url": "https://www.lyriktrip.com/tours/xian-first-empire-4-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88181b6cade0cd06e2c86",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/xian-first-empire-4-days.md"
+  },
+  {
+    "title": "China at Two Altitudes",
+    "seo_title": "China at Two Altitudes · 12-Day Chengdu, Kunming, Dujiangyan & more Private Tour",
+    "slug": "yunnan-sichuan-12-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "12 days from the foot of Jade Dragon Snow Mountain to Chengdu teahouses",
+    "duration": "12 days / 11 nights",
+    "days": 12,
+    "price_from_usd": 3900,
+    "cities": [
+      "Chengdu",
+      "Kunming",
+      "Dujiangyan",
+      "Lijiang",
+      "Shangri-La",
+      "Leshan",
+      "Tacheng"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/Nrbf96LH.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/yunnan-sichuan-12-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881fd9b34f36d4f20047a",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/yunnan-sichuan-12-days.md"
+  },
+  {
+    "title": "Above the Pillars, Then Below",
+    "seo_title": "Above the Pillars, Then Below · 5-Day Zhangjiajie Private Tour",
+    "slug": "zhangjiajie-5-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "5 days from a cliff cableway to a streambed on foot seeing these mountains whole",
+    "duration": "5 days / 4 nights",
+    "days": 5,
+    "price_from_usd": 1430,
+    "cities": [
+      "Zhangjiajie"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/6r6KBlWN.webp",
+    "official_url": "https://www.lyriktrip.com/tours/zhangjiajie-5-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8818eb8e1eb0bd71be2bb",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/zhangjiajie-5-days.md"
+  },
+  {
+    "title": "Three Speeds",
+    "seo_title": "Three Speeds · 10-Day Zhangjiajie, Guilin, Yangshuo & more Private Tour",
+    "slug": "zhangjiajie-guilin-shenzhen-10-days",
+    "product_type": "Multi-day Tour",
+    "tagline": "10 days from Heaven's Gate to Shenzhen Bay watching the country change speed",
+    "duration": "10 days / 9 nights",
+    "days": 10,
+    "price_from_usd": 2800,
+    "cities": [
+      "Zhangjiajie",
+      "Guilin",
+      "Yangshuo",
+      "Shenzhen"
+    ],
+    "themes": [
+      "Natural Wonders"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/bi5OLL9V.jpg",
+    "official_url": "https://www.lyriktrip.com/tours/zhangjiajie-guilin-shenzhen-10-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881ddaab0f55d81467f36",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "tours",
+    "path": "tours/zhangjiajie-guilin-shenzhen-10-days.md"
+  },
+  {
+    "title": "Paint Your Own Lord Rabbit (Tu'er Ye) in Beijing",
+    "seo_title": "Paint a Lord Rabbit (Tu'er Ye) Clay Figure · Beijing Craft Workshop",
+    "slug": "beijing-clay-rabbit-painting",
+    "product_type": "Day Experience",
+    "tagline": "Two hours, and you take him home — paint Beijing's 400-year-old clay Rabbit God.",
+    "duration": "About 2 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Beijing"
+    ],
+    "themes": [
+      "Crafts & Workshops",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/4582bec60cdb.webp",
+    "official_url": "https://www.lyriktrip.com/experience/beijing-clay-rabbit-painting",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881daa310f8decc797fa4",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/beijing-clay-rabbit-painting.md"
+  },
+  {
+    "title": "Cloisonné Workshop & Chinese Ink Calligraphy in Beijing",
+    "seo_title": "Cloisonné Workshop & Chinese Ink Calligraphy · Beijing Craft Half-Day",
+    "slug": "beijing-cloisonne-and-ink",
+    "product_type": "Day Experience",
+    "tagline": "Wire & Ink — one craft you watch, one you do.",
+    "duration": "Half a day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Beijing"
+    ],
+    "themes": [
+      "Crafts & Workshops",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/3b51e5b7cd34.webp",
+    "official_url": "https://www.lyriktrip.com/experience/beijing-cloisonne-and-ink",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881bf9855c84629acd50e",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/beijing-cloisonne-and-ink.md"
+  },
+  {
+    "title": "Handmade Cloth Shoes at Neiliansheng, Then Beijing Tea",
+    "seo_title": "Neiliansheng Cloth Shoe Workshop & Beijing Tea Tasting · Beijing Half-Day Craft Experience",
+    "slug": "beijing-cloth-shoes-and-tea",
+    "product_type": "Day Experience",
+    "tagline": "Ninety operations, then four minutes: a thousand-layer sole, then a tea table where nothing is hurried.",
+    "duration": "Half a day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Beijing"
+    ],
+    "themes": [
+      "Crafts & Workshops",
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/e8a757cdf0fd.webp",
+    "official_url": "https://www.lyriktrip.com/experience/beijing-cloth-shoes-and-tea",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881c7bc7beda87f9ae9d4",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/beijing-cloth-shoes-and-tea.md"
+  },
+  {
+    "title": "Chengdu Day Tour: Tai Chi, Antique Market & Sichuan Opera Backstage",
+    "seo_title": "Chengdu Tai Chi, Antique Market & Sichuan Opera Backstage · Chengdu Private Day Tour",
+    "slug": "chengdu-opera-backstage-day",
+    "product_type": "Day Experience",
+    "tagline": "A day inside Chengdu's own routine: park, market, opera backstage and a teahouse.",
+    "duration": "About 8 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Chengdu"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/b3e8c506891d.webp",
+    "official_url": "https://www.lyriktrip.com/experience/chengdu-opera-backstage-day",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8816d921dfcb2020cc6ed",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/chengdu-opera-backstage-day.md"
+  },
+  {
+    "title": "Chengdu Panda Base Morning & Sichuan Opera Face-Changing Backstage",
+    "seo_title": "Chengdu Panda Base Morning & Sichuan Opera Face-Changing Backstage · Chengdu Private Day Tour",
+    "slug": "chengdu-pandas-and-opera",
+    "product_type": "Day Experience",
+    "tagline": "Fur & Face Paint — pandas awake, then a face going on.",
+    "duration": "About 8 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Chengdu"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/66e0f3a58f43.webp",
+    "official_url": "https://www.lyriktrip.com/experience/chengdu-pandas-and-opera",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881408493c277b54ab59f",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/chengdu-pandas-and-opera.md"
+  },
+  {
+    "title": "Sichuan Cooking Class in Chengdu with a Market Tour",
+    "seo_title": "Sichuan Cooking Class with Market Tour · Chengdu Private Cooking Experience",
+    "slug": "chengdu-sichuan-cooking-class",
+    "product_type": "Day Experience",
+    "tagline": "A local market with the chef beside you, then your own wok in a private garden restaurant.",
+    "duration": "About 4 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Chengdu"
+    ],
+    "themes": [
+      "Food & Tea",
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/57928a6984ec.webp",
+    "official_url": "https://www.lyriktrip.com/experience/chengdu-sichuan-cooking-class",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8813da8cef9f86787f387",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/chengdu-sichuan-cooking-class.md"
+  },
+  {
+    "title": "Mount Emei Monastery Stay at a Mid-Mountain Temple & Golden Summit",
+    "seo_title": "Mount Emei Monastery Stay: Mid-Mountain Temple & Golden Summit · Mt Emei 2-Day Trip",
+    "slug": "emei-monastery-night-and-summit",
+    "product_type": "Day Experience",
+    "tagline": "Everyone leaves at five. You stay for chanting, kungfu and the Golden Summit.",
+    "duration": "2 days, 1 night",
+    "days": 2,
+    "price_from_usd": null,
+    "cities": [
+      "Mt Emei"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Nature & Mountains"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/aaa5ce06469c.webp",
+    "official_url": "https://www.lyriktrip.com/experience/emei-monastery-night-and-summit",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8811496e9e664c747cab6",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/emei-monastery-night-and-summit.md"
+  },
+  {
+    "title": "Pick tea in Longjing Village, make porcelain in Jingdezhen",
+    "seo_title": "China's Three Treasures Two-Day Trip: Pick Tea in Longjing, Make Porcelain in Jingdezhen · Hangzhou Private Tour",
+    "slug": "hangzhou-jingdezhen-tea-porcelain-2-days",
+    "product_type": "Day Experience",
+    "tagline": "Pick tea in Longjing Village, make porcelain in Jingdezhen.",
+    "duration": "2 days",
+    "days": 2,
+    "price_from_usd": 701,
+    "cities": [
+      "Hangzhou",
+      "Jingdezhen"
+    ],
+    "themes": [
+      "Food & Tea",
+      "Crafts & Workshops"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2324fc20bd3d.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/hangzhou-jingdezhen-tea-porcelain-2-days",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88143a70cecadfb52cff6",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/hangzhou-jingdezhen-tea-porcelain-2-days.md"
+  },
+  {
+    "title": "Put on a dragon robe and be the lead in a costume drama",
+    "seo_title": "Hengdian World Studios Cosplay Day Trip: Be Emperor, Shoot a Wuxia Scene · Hengdian Private Day Tour",
+    "slug": "hengdian-world-studios-hanfu-day-trip",
+    "product_type": "Day Experience",
+    "tagline": "Put on a dragon robe, play emperor or martial arts hero, and take home a short film starring you.",
+    "duration": "One day (about 13 hours)",
+    "days": 1,
+    "price_from_usd": 522,
+    "cities": [
+      "Hengdian"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Family Trips"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/6e612430b997.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/hengdian-world-studios-hanfu-day-trip",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881ebae5bed6ba03c5ff9",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/hengdian-world-studios-hanfu-day-trip.md"
+  },
+  {
+    "title": "Panda Volunteer Day in Jiuzhaigou & Baima Tibetan Village",
+    "seo_title": "Panda Volunteer Day & Baima Tibetan Village · Jiuzhaigou Private Day Tour",
+    "slug": "jiuzhaigou-pandas-and-baima-village",
+    "product_type": "Day Experience",
+    "tagline": "A volunteer morning at a reserve closed to everyone else, then a Baima village and family dinner.",
+    "duration": "8–9 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Jiuzhaigou"
+    ],
+    "themes": [
+      "Nature & Mountains",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/f0cacbee5843.webp",
+    "official_url": "https://www.lyriktrip.com/experience/jiuzhaigou-pandas-and-baima-village",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88114bdf5eb724ebc46b6",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/jiuzhaigou-pandas-and-baima-village.md"
+  },
+  {
+    "title": "Leshan Giant Buddha Tour: Boat View, Old Town & Tea Farm",
+    "seo_title": "Leshan Giant Buddha Tour by Boat, Old Town & Tea Farm · Leshan Private Day Tour",
+    "slug": "leshan-giant-buddha-and-tea-farm",
+    "product_type": "Day Experience",
+    "tagline": "Stone & Leaf — a boat, a barber, and a wok of tea.",
+    "duration": "About 9 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Leshan"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/9fd92c06a251.webp",
+    "official_url": "https://www.lyriktrip.com/experience/leshan-giant-buddha-and-tea-farm",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8813ebf59c1a240656a94",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/leshan-giant-buddha-and-tea-farm.md"
+  },
+  {
+    "title": "Lingnan Imperial Banquet Day Tour",
+    "seo_title": "Lingnan Imperial Banquet Day Tour · Guangzhou Private Day Tour with Hanfu Lunch",
+    "slug": "lingnan-imperial-banquet-day-tour",
+    "product_type": "Day Experience",
+    "tagline": "Zhujiang skyline in the morning, a hanfu imperial banquet at midday, Huangpu Ancient Port in the afternoon.",
+    "duration": "One day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Guangzhou"
+    ],
+    "themes": [
+      "Food & Tea",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/d2IzWGqQ.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/lingnan-imperial-banquet-day-tour",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881f28813c7ef403aa039",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/lingnan-imperial-banquet-day-tour.md"
+  },
+  {
+    "title": "Climb the Great Wall without going to Beijing",
+    "seo_title": "Jiangnan Great Wall Day Trip: Taizhou Prefecture Wall & Ziyang Street · Linhai Private Day Trip",
+    "slug": "linhai-jiangnan-great-wall-day-trip",
+    "product_type": "Day Experience",
+    "tagline": "Climb the Great Wall without going to Beijing — the blueprint for the northern Ming wall.",
+    "duration": "One day (about 13 hours)",
+    "days": 1,
+    "price_from_usd": 343,
+    "cities": [
+      "Linhai",
+      "Shanghai"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/849bfa7ad3fc.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/linhai-jiangnan-great-wall-day-trip",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881218a1befa5805596b7",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/linhai-jiangnan-great-wall-day-trip.md"
+  },
+  {
+    "title": "One Day in Old Canton",
+    "seo_title": "One Day in Old Canton: Old Streets, Floating Teahouse & Yongqingfang · Guangzhou Private Day Tour",
+    "slug": "one-day-guangzhou",
+    "product_type": "Day Experience",
+    "tagline": "One day, two faces of Canton: old streets, a teahouse on the water, living heritage.",
+    "duration": "1 day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Guangzhou"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/086070c99141.webp",
+    "official_url": "https://www.lyriktrip.com/experience/one-day-guangzhou",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88120ace3f24db882daa6",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/one-day-guangzhou.md"
+  },
+  {
+    "title": "Mount Qingcheng Tea Afternoon in a Private Ravine",
+    "seo_title": "Mount Qingcheng Tea Afternoon in a Private Ravine · Qingcheng Private Afternoon",
+    "slug": "qingcheng-ravine-tea-afternoon",
+    "product_type": "Day Experience",
+    "tagline": "A private ravine behind a 300-year suspension bridge, old-tree tea and pastries, and a stream you can stand in.",
+    "duration": "An afternoon",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Qingcheng"
+    ],
+    "themes": [
+      "Food & Tea",
+      "Nature & Mountains"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/6a9abbc78053.webp",
+    "official_url": "https://www.lyriktrip.com/experience/qingcheng-ravine-tea-afternoon",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8819b9184e9d10d1045c8",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/qingcheng-ravine-tea-afternoon.md"
+  },
+  {
+    "title": "Mount Qingcheng Taoist Temple Morning with Tai Chi",
+    "seo_title": "Mount Qingcheng Taoist Temple Morning with Tai Chi · Qingcheng Private Half-Day",
+    "slug": "qingcheng-taoist-temple-morning",
+    "product_type": "Day Experience",
+    "tagline": "Forty minutes up a pilgrims' road to a 300-year Taoist temple, with tea, lunch and tai chi.",
+    "duration": "Half day (morning)",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Qingcheng"
+    ],
+    "themes": [
+      "Nature & Mountains",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/85205793af76.webp",
+    "official_url": "https://www.lyriktrip.com/experience/qingcheng-taoist-temple-morning",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8818f9959d416746a3327",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/qingcheng-taoist-temple-morning.md"
+  },
+  {
+    "title": "Three hours, on these streets in Huangpu",
+    "seo_title": "Shanghai Food Tasting: Soup Dumplings at Xintiandi, then a Table on Huaihai Road · Shanghai Food Tour",
+    "slug": "shanghai-downtown-food-tasting",
+    "product_type": "Day Experience",
+    "tagline": "Soup dumplings at Xintiandi, tables on Huaihai Road, neon on Yunnan Road.",
+    "duration": "About 3 hours",
+    "days": 1,
+    "price_from_usd": 68,
+    "cities": [
+      "Shanghai"
+    ],
+    "themes": [
+      "Food & Tea"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/76a8543fe586.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/shanghai-downtown-food-tasting",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881219d64f22525c169d7",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/shanghai-downtown-food-tasting.md"
+  },
+  {
+    "title": "You stand on a North Bund roof. Lujiazui is opposite.",
+    "seo_title": "Magnolia Deck: 320-Metre Open Roof on the North Bund, Lujiazui Opposite · Shanghai Evening Experience",
+    "slug": "shanghai-magnolia-observation-deck",
+    "product_type": "Day Experience",
+    "tagline": "A 320-metre open-air roof on the North Bund with Lujiazui's towers opposite and no glass in between.",
+    "duration": "Evening slot",
+    "days": 1,
+    "price_from_usd": 82,
+    "cities": [
+      "Shanghai"
+    ],
+    "themes": [
+      "Culture & Heritage",
+      "Tech & Future"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/c88641f4bb1e.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/shanghai-magnolia-observation-deck",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8815a92d4d516fe6b7a0c",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/shanghai-magnolia-observation-deck.md"
+  },
+  {
+    "title": "Six stops. Here is where each one is.",
+    "seo_title": "Shanghai Tech Afternoon: Lujiazui Showrooms, a Driverless Ride & Shanghai Tower · Shanghai Tech Tour",
+    "slug": "shanghai-tech-discovery-driverless-car",
+    "product_type": "Day Experience",
+    "tagline": "Shanghai Tower, NIO and ZEEKR showrooms, a driverless ride and a humanoid robot in about 4 hours.",
+    "duration": "About 4 hours",
+    "days": 1,
+    "price_from_usd": 109,
+    "cities": [
+      "Shanghai"
+    ],
+    "themes": [
+      "Tech & Future"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/438dbff5b01a.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/shanghai-tech-discovery-driverless-car",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e8815eaa70faf349194fe5",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/shanghai-tech-discovery-driverless-car.md"
+  },
+  {
+    "title": "Fly a Drone at DJI's First Flagship Store & 3D Print in Shenzhen",
+    "seo_title": "Fly a Drone at DJI's First Flagship Store & 3D Print · Shenzhen Tech Half-Day",
+    "slug": "shenzhen-drones-and-3d-printing",
+    "product_type": "Day Experience",
+    "tagline": "Rotor & Resin — you fly one. You print one.",
+    "duration": "Half a day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Shenzhen"
+    ],
+    "themes": [
+      "Tech & Future"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/0c31380e23c3.webp",
+    "official_url": "https://www.lyriktrip.com/experience/shenzhen-drones-and-3d-printing",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881aab384f5b29b74aac8",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/shenzhen-drones-and-3d-printing.md"
+  },
+  {
+    "title": "Ride a Driverless Robotaxi in Shenzhen & Walk Huaqiangbei",
+    "seo_title": "Shenzhen Robotaxi Ride & Huaqiangbei Electronics Market · Shenzhen Tech Half-Day",
+    "slug": "shenzhen-robotaxi-and-huaqiangbei",
+    "product_type": "Day Experience",
+    "tagline": "Ride a fully driverless taxi in Pingshan, then pick the same technology off a counter in Huaqiangbei.",
+    "duration": "Half a day",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Shenzhen"
+    ],
+    "themes": [
+      "Tech & Future"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/e104b97202be.webp",
+    "official_url": "https://www.lyriktrip.com/experience/shenzhen-robotaxi-and-huaqiangbei",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e88165ab48fad3b6d100bf",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/shenzhen-robotaxi-and-huaqiangbei.md"
+  },
+  {
+    "title": "Chengdu Foodie Tour by Tuk-Tuk",
+    "seo_title": "Chengdu Foodie Tour by Tuk-Tuk · Chengdu Private Food Ride",
+    "slug": "smoke-and-spokes",
+    "product_type": "Day Experience",
+    "tagline": "Four or five must-eats, down old Chengdu lanes no coach can enter.",
+    "duration": "About 1.5–2 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Chengdu"
+    ],
+    "themes": [
+      "Food & Tea",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/3dc3c458b2b1.jpg",
+    "official_url": "https://www.lyriktrip.com/experience/smoke-and-spokes",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881a9be33fd20d1453a41",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/smoke-and-spokes.md"
+  },
+  {
+    "title": "Make Your Own Tibetan Leather Piece in Songpan Ancient Town",
+    "seo_title": "Make Your Own Tibetan Leather Piece in Songpan Ancient Town · Songpan Craft Workshop",
+    "slug": "songpan-tibetan-leather-workshop",
+    "product_type": "Day Experience",
+    "tagline": "Hide & Awl — you make the two cuts that can't be undone.",
+    "duration": "About 2–3 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Songpan"
+    ],
+    "themes": [
+      "Crafts & Workshops",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/77e066c5004f.webp",
+    "official_url": "https://www.lyriktrip.com/experience/songpan-tibetan-leather-workshop",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881b9b3adda1b5fd600cf",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/songpan-tibetan-leather-workshop.md"
+  },
+  {
+    "title": "Tujia Brocade Weaving Workshop near Zhangjiajie",
+    "seo_title": "Tujia Brocade Weaving Workshop near Zhangjiajie · Zhangjiajie Craft Experience",
+    "slug": "zhangjiajie-tujia-brocade-weaving",
+    "product_type": "Day Experience",
+    "tagline": "Two hours at a wooden back-strap loom: eight hundred warp threads and a pattern with no chart to follow.",
+    "duration": "About 2 hours",
+    "days": 1,
+    "price_from_usd": null,
+    "cities": [
+      "Zhangjiajie"
+    ],
+    "themes": [
+      "Crafts & Workshops",
+      "Culture & Heritage"
+    ],
+    "cover": "https://cdn.lyriktrip.com/s/2310f4d3c2db.webp",
+    "official_url": "https://www.lyriktrip.com/experience/zhangjiajie-tujia-brocade-weaving",
+    "notion_url": "https://app.notion.com/p/3fec1ef407e881fa8a50dc6c39b9a33e",
+    "contact_email": "cs@lyriktrip.com",
+    "whatsapp": "https://wa.me/85269280475",
+    "section": "experiences",
+    "path": "experiences/zhangjiajie-tujia-brocade-weaving.md"
+  }
+]
