@@ -1,6 +1,6 @@
 # LyrikTrip — Private China Tours & Experiences
 
-<p><img src="https://cdn.lyriktrip.com/s/bckHHtQO.webp" alt="LyrikTrip private China tours" width="100%"></p>
+<p><img src="https://cdn.lyriktrip.com/s/03a0a4e882e0.webp" alt="The Forbidden City at dusk, seen from Jingshan Park — LyrikTrip private China tours" width="100%"></p>
 
 **[LyrikTrip](https://www.lyriktrip.com)** is a China-only travel company designing private, tailor-made tours with local guides — 20+ years of experience, 300+ private itineraries, rated 4.9/5 from 523 verified reviews.
 
